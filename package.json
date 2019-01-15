@@ -1,0 +1,22 @@
+{
+  "name": "lerna-test",
+  "version": "0.0.1",
+  "description": "lerna private test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/trustyoo86/lerna-test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/trustyoo86/lerna-test/issues"
+  },
+  "homepage": "https://github.com/trustyoo86/lerna-test#readme",
+  "devDependencies": {
+    "lerna": "^3.10.5"
+  }
+}
